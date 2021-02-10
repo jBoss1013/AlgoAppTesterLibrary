@@ -1,0 +1,5 @@
+Find the three largest numbers in an array
+
+This algorithm takes in an integer array and returns an array that contains the three largest numbers within the given array. 
+
+Below, please enter an integer array of 3 or more elements. 

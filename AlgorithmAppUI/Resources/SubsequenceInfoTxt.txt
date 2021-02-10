@@ -1,0 +1,7 @@
+Subsequence of an array
+
+A subsequence of an array is a set a numbers that are not adjacent in the array but are in the same order as they appear in given array (ex: {2,4,6} is a subsequence to the array {1,2,3,4,5,6}). 
+
+This algorithm takes two non-empty integer arrays and returns a boolean response to whether or not the potential second array is a subsequence to the first array.
+
+Below, please enter a full array into the first input field using only integers separated by commas. In the secondary field, enter a smaller array that may or may not be a subsequence

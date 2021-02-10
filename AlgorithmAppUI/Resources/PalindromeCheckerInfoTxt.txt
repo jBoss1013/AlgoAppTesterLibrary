@@ -1,0 +1,5 @@
+Palindrome Checker
+
+A palindrome is a string that is spelled the same way forwards and backwards (ex: racecar). This algorithm takes a single string (with no spaces) and checks to see if the string is a palindrome before returning a boolean response. 
+
+Below, please enter in a string of characters to determine if the string is a palindrome.

@@ -1,0 +1,9 @@
+Nth Fibonacci
+
+The Fibonacci sequence is a series of numbers where a number is the addition of the last two numbers in the current sequence, starting with 0 and 1. This is derived by the formula Fn = F(n-1)+ F(n-2). The first few lines within the sequence are as follows: 0,1,1,2,3,5,8,13,21,34,55...
+
+This algorithm takes an integer number and plugs that number into n and gives the resulting index of n. It is important to note that there are some variants to how this formula is coded. This particular algorithm takes in the integer and displays the index of n. The code preview has comments on what would change for the code variant.
+
+Below, enter an integer to get the index of n for the fibonacci sequence.  
+
+
